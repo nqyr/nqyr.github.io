@@ -29,7 +29,7 @@ page_sections:
     headline: Infrastructure as Code
     content: ''
   col_2:
-    headline: Continous Delivery
+    headline: Continuous Delivery
     content: ''
   col_3:
     headline: Mentorship
