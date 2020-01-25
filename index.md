@@ -20,9 +20,9 @@ page_sections:
     url: https://github.com/nqyr
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+    image: ''
+    alt_text: ''
+  background_image: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -38,6 +38,14 @@ page_sections:
     headline: Mentorship
     content: Long lasting success requires more than code &amp; documentation, we
       work with your team to give them the skills and knowledge for the long haul
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: simple-footer
   block: footer-1
   content: 'NQYR Limited is registered in England and Wales under company registration
