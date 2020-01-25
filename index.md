@@ -13,12 +13,11 @@ page_sections:
   logo: ''
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: 'nqyr '
+  content: ''
   cta:
-    enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    enabled: false
+    url: https://github.com/nqyr
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
