@@ -40,7 +40,9 @@ page_sections:
       work with your team to give them the skills and knowledge for the long haul
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: 'NQYR Limited is registered in England and Wales under company registration
+    number 09884428<br>Registered office address: The Threshing Barn Cosford Lane,
+    Cosford, Rugby, England, CV21 1HT'
 
 ---
 foo bar
