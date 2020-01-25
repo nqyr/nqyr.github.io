@@ -36,7 +36,8 @@ page_sections:
       delivering at the cadence you need
   col_3:
     headline: Mentorship
-    content: ''
+    content: Long lasting success requires more than code &amp; documentation, we
+      work with your team to give them the skills and knowledge for the long haul
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
