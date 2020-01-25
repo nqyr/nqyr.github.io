@@ -27,8 +27,8 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Infrastructure as Code
-    content: Industrialize you infrastructure, nqyr will help you automate and codify
-      infrastructure so that your can keep operations light and get back to focusing
+    content: Reduce your operational overhead, we will help you automate and codify
+      infrastructure so that you spend less time keeping the lights on and more time
       on core delivery
   col_2:
     headline: Continuous Delivery
