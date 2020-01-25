@@ -27,7 +27,9 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Infrastructure as Code
-    content: ''
+    content: Industrialize you infrastructure, nqyr will help you automate and codify
+      infrastructure so that your can keep operations light and get back to focusing
+      on core delivery
   col_2:
     headline: Continuous Delivery
     content: From Jenkins to CircleCI, we help you shift left and get your pipelines
