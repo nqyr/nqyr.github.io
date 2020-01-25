@@ -30,7 +30,8 @@ page_sections:
     content: ''
   col_2:
     headline: Continuous Delivery
-    content: ''
+    content: From Jenkins to CircleCI, we help you shift left and get your pipelines
+      delivering at the cadence you need
   col_3:
     headline: Mentorship
     content: ''
