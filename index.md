@@ -10,7 +10,7 @@ page_sections:
     link_text: Contact
   - link: "#services"
     link_text: Services
-  logo: ''
+  logo: "/uploads/2020/01/26/nqyr_logo.png"
 - template: hero-banner-w-image
   block: hero-2
   headline: 'nqyr '
