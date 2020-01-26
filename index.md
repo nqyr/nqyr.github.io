@@ -13,14 +13,14 @@ page_sections:
   logo: "/uploads/2020/01/26/nqyr_logo.svg"
 - template: hero-banner-w-image
   block: hero-2
-  headline: <img src="/uploads/2020/01/26/nqyr_logo_inverted.svg">
+  headline: ''
   content: ''
   cta:
     enabled: false
     url: https://github.com/nqyr
     button_text: 'See on GitHub '
   image:
-    image: ''
+    image: "/uploads/2020/01/26/nqyr_logo_inverted.svg"
     alt_text: ''
   background_image: "/uploads/2020/01/26/panorama.png"
 - template: 3-column-text-anchor
