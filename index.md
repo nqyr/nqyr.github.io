@@ -20,7 +20,7 @@ page_sections:
     url: https://github.com/nqyr
     button_text: 'See on GitHub '
   image:
-    image: ''
+    image: "/uploads/2020/01/26/landscape.jpg"
     alt_text: ''
   background_image: "/uploads/2020/01/26/landscape.jpg"
 - template: 3-column-text-anchor
