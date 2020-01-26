@@ -27,9 +27,9 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Infrastructure as Code
-    content: Reduce your operational overhead, we will help you automate and codify
-      infrastructure so that you spend less time keeping the lights on and more time
-      on core delivery
+    content: <img src="/uploads/2020/01/26/002-crane-1.svg"><img src="/uploads/2020/01/26/002-crane-1.svg"><br>Reduce
+      your operational overhead, we will help you automate and codify infrastructure
+      so that you spend less time keeping the lights on and more time on core delivery
   col_2:
     headline: Continuous Delivery
     content: From Jenkins to CircleCI, we help you shift left and get your pipelines
