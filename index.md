@@ -28,16 +28,18 @@ page_sections:
   col_1:
     headline: Infrastructure as Code
     content: <img src="/uploads/2020/01/26/002-crane-1.png" title="Infrastructure
-      as Code" alt="tower crane" width="48"><br> Reduce your operational overhead, we will help
+      as Code" alt="tower crane" width="64"><br> Reduce your operational overhead, we will help
       you automate and codify infrastructure so that you spend less time keeping the
       lights on and more time on core delivery
   col_2:
     headline: Continuous Delivery
-    content: From Jenkins to CircleCI, we help you shift left and get your pipelines
+    content: <img src="/uploads/2020/01/26/004-logistic.png" title="Continuous Delivery" alt="truck route" width="64">
+      <br> From Jenkins to CircleCI, we help you shift left and get your pipelines
       delivering at the cadence you need
   col_3:
     headline: Mentorship
-    content: Long lasting success requires more than code &amp; documentation, we
+    content: <img src="/uploads/2020/01/26/006-teamwork.png" title="Mentorship" alt="people triangle" width="64"><br>
+      Long lasting success requires more than code &amp; documentation, we
       work with your team to give them the skills and knowledge for the long haul
 - template: content-feature
   block: feature-1
