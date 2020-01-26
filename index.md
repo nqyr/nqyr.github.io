@@ -24,7 +24,7 @@ page_sections:
     alt_text: ''
   background_image: ''
 - template: 3-column-text-anchor
-  block: three-column-1
+  block: three-column-anchor
   anchor: #services
   col_1:
     headline: Infrastructure as Code
