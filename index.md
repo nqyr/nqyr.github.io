@@ -22,7 +22,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  background_image: "/uploads/2020/01/26/landscape.jpg"
+  background_image: "/uploads/2020/01/26/panorama.png"
 - template: 3-column-text-anchor
   block: three-column-anchor
   anchor: services
