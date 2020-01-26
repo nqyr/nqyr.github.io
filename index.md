@@ -58,13 +58,13 @@ page_sections:
     title="mynamepong">mynamepong</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>'
 - template: 4-column-footer
   block: footer-2
-  col_2: 'NQYR Limited is registered in England and Wales under company registration
-    number 09884428<br>Registered office address: The Threshing Barn Cosford Lane,
-    Cosford, Rugby, England, CV21 1HT<br>Icons made by <a href="https://www.flaticon.com/authors/mynamepong"
-    title="mynamepong">mynamepong</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>'
-  image: ''
-  col_3: ''
-  col_4: ''
+  col_2: NQYR Limited is registered in England and Wales under company registration
+    number 09884428
+  image: "/uploads/2020/01/26/nqyr_logo.png"
+  col_3: 'Registered office address: The Threshing Barn Cosford Lane, Cosford, Rugby,
+    England, CV21 1HT'
+  col_4: Icons made by <a href="https://www.flaticon.com/authors/mynamepong" title="mynamepong">mynamepong</a>
+    from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
 ---
 foo bar
