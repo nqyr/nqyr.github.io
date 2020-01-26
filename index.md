@@ -27,8 +27,9 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Infrastructure as Code
-    content: <img src="/uploads/2020/01/26/002-crane-1.svg" style="width:48px;" title="Infrastructure as Code" alt="tower crane"><br>
-      Reduce your operational overhead, we will help you automate and codify infrastructure so that you spend less time keeping the
+    content: <img src="/uploads/2020/01/26/002-crane-1.png" title="Infrastructure
+      as Code" alt="tower crane"><br> Reduce your operational overhead, we will help
+      you automate and codify infrastructure so that you spend less time keeping the
       lights on and more time on core delivery
   col_2:
     headline: Continuous Delivery
