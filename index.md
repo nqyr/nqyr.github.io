@@ -25,7 +25,7 @@ page_sections:
   background_image: ''
 - template: 3-column-text-anchor
   block: three-column-anchor
-  anchor: #services
+  anchor: "#services"
   col_1:
     headline: Infrastructure as Code
     content: <img src="/uploads/2020/01/26/002-crane-1.png" title="Infrastructure
