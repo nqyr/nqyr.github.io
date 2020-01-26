@@ -13,7 +13,7 @@ page_sections:
   logo: "/uploads/2020/01/26/nqyr_logo.png"
 - template: hero-banner-w-image
   block: hero-2
-  headline: 'nqyr '
+  headline: <img src="/uploads/2020/01/26/nqyr_logo.png">
   content: ''
   cta:
     enabled: false
