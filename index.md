@@ -50,12 +50,13 @@ page_sections:
   media:
     image: ''
     alt_text: ''
-- template: simple-footer
-  block: footer-1
-  content: 'NQYR Limited is registered in England and Wales under company registration
+- template: 2-column-footer
+  block: footer-3
+  col_2: 'NQYR Limited is registered in England and Wales under company registration
     number 09884428<br>Registered office address: The Threshing Barn Cosford Lane,
     Cosford, Rugby, England, CV21 1HT<br>Icons made by <a href="https://www.flaticon.com/authors/mynamepong"
     title="mynamepong">mynamepong</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>'
+  image: "/uploads/2020/01/26/nqyr_logo.png"
 
 ---
 foo bar
