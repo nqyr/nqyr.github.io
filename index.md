@@ -57,7 +57,7 @@ page_sections:
     number 09884428<br>Registered office address: The Threshing Barn Cosford Lane,
     Cosford, Rugby, England, CV21 1HT<br>Icons made by <a href="https://www.flaticon.com/authors/mynamepong"
     title="mynamepong">mynamepong</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>'
-  image: "/uploads/2020/01/26/nqyr_logo.png"
+  image: "/uploads/2020/01/26/nqyr_logo.svg"
 
 ---
 foo bar
