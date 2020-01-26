@@ -30,6 +30,7 @@ fields:
   - 2-column-media-element
   - signup-bar
   - simple-footer
+  - 2-column-footer
   - 4-column-footer
 pages:
 - index.md
